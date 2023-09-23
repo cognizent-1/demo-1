@@ -1,0 +1,2 @@
+welcome to ubuntu local machine
+working with git
